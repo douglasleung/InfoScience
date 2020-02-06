@@ -15,6 +15,7 @@ How do I understand coding better?
 Are there different languges of coding?
 
 CLASS 2
+
 We went through our homework, which was to research and make a circle in Processing.  We also followed the teacher and create a few things using coding in Processing.  At the end we tired to make a dice on our own, which required a bit of research.
 
 I learning how to code, and many ways things can be manipulated to change the final produce/outcome.
