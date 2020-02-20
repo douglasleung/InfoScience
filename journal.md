@@ -74,3 +74,47 @@ def mouseClicked():
         circle(350,350,55)
         
  ```
+Class 4
+
+At the start of the class, we attempted to make a chess board, with no idea that it twas going to be a opitcal illution.  We created a moving optical illusions.
+
+I learned more about coding, and the many ways to build a optical illusion from scratch.  There is a very long process to creating this final chess board.
+
+I want to know, what is the most complicated optical illution you can make on processing?
+
+```.py 
+offset = 50
+
+def mouseClicked():
+    global offset
+    offset = offset + 1
+
+def setup ():
+    size (500, 500)
+    background (255)
+    
+def draw ():
+    stroke(0) #lines are black
+    y = 50
+    for inc in range(9):
+        line(0, y, 500, y);
+        y = y + 50
+ 
+    fill(0)
+    stroke(255)
+    y = 0
+    for rows in range(5):
+        x = 0
+        for rep in range(5):
+            square(x,y,50)
+            x = x + 100
+        y = y + 100
+
+    y = 50 #start of the even rows
+    global offset
+    for rows in range(5):
+        x = 0 + offset
+        for rep in range(5):
+            square(x,y,50)
+            x = x + 100
+        y = y + 100
