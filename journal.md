@@ -118,3 +118,11 @@ def draw ():
             square(x,y,50)
             x = x + 100
         y = y + 100
+
+CLASS 5
+
+We created our own inllusion, and I was able to make the Grid illusion, where there appeared to be circles in the intersection through illusions.
+
+I learned about repeating steps and how it creates a visuak illusion.
+
+What other visual illusions can we make?
