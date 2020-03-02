@@ -126,3 +126,11 @@ We created our own inllusion, and I was able to make the Grid illusion, where th
 I learned about repeating steps and how it creates a visuak illusion.
 
 What other visual illusions can we make?
+
+CLASS 6
+
+We make our own circuit board, and we learned how to make a traffic light system.
+
+I learned how to manipulate the code, so that it shows the desired outcome.
+
+How do you we use this in our everyday lives?
