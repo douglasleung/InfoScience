@@ -27,3 +27,5 @@ void loop()
 ```
   
 The image of the Circuit is shown in Fig. 1
+![Circuit](Circuit.png)
+Here's the circuit
